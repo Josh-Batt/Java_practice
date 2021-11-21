@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "TempDay",
+        "SwitchBoard",
+        "MorgageCalc",
+        "HelloWorld",
+        "FlightClass",
+        "CreditEligable",
+        "BasicCalculator",
+        "FizzBuzz"
+    ]
+}
